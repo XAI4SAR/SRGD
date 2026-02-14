@@ -4,3 +4,5 @@
 - [1. Introduction](#1-introduction)
 - [2. Contribution](#2-contribution)
 - [3. Framework](#3-framework)
+- [4. Scene-Resolution Shift Benchmark](#4-benchmark)
+- [5. Experiments](#5-experiments)
